@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+header{
+  background-color: #699afd;
+  font-size: calc(10px + 4vmin);
+}
+
